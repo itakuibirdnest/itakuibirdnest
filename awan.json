@@ -25,7 +25,7 @@
   "scenes": [
     {
       "act": "wave",
-      "say": "hi there! i'm {name}"
+      "say": "Halo lur! Aku {name}"
     },
     {
       "act": "present",
@@ -33,23 +33,23 @@
     },
     {
       "act": "stats",
-      "say": "the numbers, if you're curious"
+      "say": "Lek dulur penasaran, iki statistikku."
     },
     {
       "act": "contributions",
-      "say": "i'm very happy, {contrib_year} this year",
-      "then": "and {contrib_recent} in the last 30 days"
+      "say": "Aku seneng banget kontribusiku, {contrib_year} tahun iki",
+      "then": "lan {contrib_recent} dalam 30 dino terakhir."
     },
     {
       "act": "sleep",
-      "say": "...i'll fix that, promise"
+      "say": "...bakal luwih rajin, janji!."
     },
     {
       "act": "sing"
     },
     {
       "act": "sleep",
-      "say": "okay... nap time, zzz"
+      "say": "Ngantuk... wayahe turu sek lur, zzz"
     }
   ]
 }
