@@ -1,0 +1,51 @@
+{
+  "username": "itakuibirdnest",
+  "name": "itakuibirdnest",
+  "role": "FULLSTACK",
+  "location": "INDONESIA",
+  "stack": "PHP, LARAVEL, REACT, TYPESCRIPT",
+  "song": "GUT GENUG",
+  "artist": " KITSCHKRIEG feat. BLUMENGARTEN & SHIRIN DAVID",
+  "lyrics": [
+    "Du bist gut genug Ich weiß nicht, was die Welt dir sagt Bleib einfach nur du (K-K-K-K-KitschKrieg) Du bist gut genug Du bist gut genug Du bist gut genug Du bist gut genug Uh, ja",
+    "Ich werde mir nie gerecht, denn ich bin zu mir nie gerecht (hm) Babsi versus Shirin David, das nenn ich ein Titelmatch (yup) Für mich ist das Schwerste erst Familie oder Karriere (okay) Ich entschied mich für das Zweite wie Elisabeth die Erste Jeder bewertet, kaum geht ein Girl ihr'n Weg (uh) Glaub mir, Boy, schwer wiegt das Haupt, das die Birkin trägt Man sagt: \"Du kannst alles schaffen, wenn du an dich selbst glaubst\" (uh) Steige nach dem Heulen aus dem Bett und dreh mein'n Swag auf (wow)",
+    "Nur weil Babsi unperfekt ist, tritt Shirin perfekt auf (yup) Darum lasst uns streiten, an uns zweifeln, heute geh'n wir Crashout (Crashout) Für die meisten bin ich Miss Bauch Beine Po (uh) Doch mir selbst sag ich jeden Tag: \"Bleib einfach du\" Du bist gut genug Du bist gut genug Du bist gut genug Du bist gut genug"
+  ],
+  "character": "characters/oyen.toml",
+  "streak": 0,
+  "stats": [],
+  "contributions": "",
+  "contrib_year": 0,
+  "contrib_recent": 0,
+  "output": "assets/awan.gif",
+  "scenes": [
+    {
+      "act": "wave",
+      "say": "hi there! i'm {name}"
+    },
+    {
+      "act": "present",
+      "say": "{role}"
+    },
+    {
+      "act": "stats",
+      "say": "the numbers, if you're curious"
+    },
+    {
+      "act": "contributions",
+      "say": "i'm very happy, {contrib_year} this year",
+      "then": "and {contrib_recent} in the last 30 days"
+    },
+    {
+      "act": "{verdict}",
+      "say": "CI decides"
+    },
+    {
+      "act": "sing"
+    },
+    {
+      "act": "sleep",
+      "say": "okay... nap time, zzz"
+    }
+  ]
+}
